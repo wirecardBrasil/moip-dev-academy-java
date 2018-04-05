@@ -3,7 +3,7 @@
 
 Entity | Description
 ------------ | -------------
-User | The librarian and the SysAdmin
+User | Librarian / SysAdmin
 Book | Title / Author / ISBN
 Patron | The person who borrows a book
 Loan | Registers which book a patron borrowed, the librarian who lend it, when the book was borrowed, how long the patron can keep the book, and the fine amount if the book isn't returned before the due date.
