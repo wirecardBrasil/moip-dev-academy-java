@@ -75,13 +75,13 @@ Loan | Registers which book a patron borrowed, the librarian who lend it, when t
     "timeLimit": " 2",
     "fineAmount": 2.50,
     "book": {
-    	"id": [put a valid bookId here]
+    	"id": 1
     },
     "patron": {
-    	"id": [put a valid patronId here]
+    	"id": 1
     },
     "user": { 
-    	"id": 2 [put a valid userId here]
+    	"id": 1
     }
 }
 ```
@@ -94,13 +94,13 @@ Loan | Registers which book a patron borrowed, the librarian who lend it, when t
     "timeLimit": " 3",
     "fineAmount": 3.50,
     "book": {
-    	"id": [put a valid bookId here]
-    },
+    	"id": 1
+    },
     "patron": {
-    	"id": [put a valid patronId here]
+    	"id": 1
     },
     "user": { 
-    	"id": 2 [put a valid userId here]
+    	"id": 1
     }
 }
 ```
