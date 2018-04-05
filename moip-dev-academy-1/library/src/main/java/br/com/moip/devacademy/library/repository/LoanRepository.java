@@ -1,7 +1,6 @@
 package br.com.moip.devacademy.library.repository;
 
 import br.com.moip.devacademy.library.entity.Loan;
-import br.com.moip.devacademy.library.entity.Patron;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
