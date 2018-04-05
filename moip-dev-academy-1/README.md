@@ -94,8 +94,8 @@ Loan | Registers which book a patron borrowed, the librarian who lend it, when t
     "timeLimit": " 3",
     "fineAmount": 3.50,
     "book": {
-    	"id": 1
-    },
+    	"id": 1
+    },
     "patron": {
     	"id": 1
     },
