@@ -119,7 +119,7 @@ cp -R library ../../ && cd ../../library && git init
 heroku create library
 ```
 
-4. push to the Heroku
+4. Push to the Heroku
 ```bash
 git push heroku master
 ```
