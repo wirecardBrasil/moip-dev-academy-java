@@ -105,3 +105,21 @@ Loan | Registers which book a patron borrowed, the librarian who lend it, when t
 }
 ```
 5. Delete a Loan using **DELETE** `localhost:8080/loans/{loanId}`
+
+### Heroku deploy ###
+1. Copy `library` folder out of the directory `moip-dev-academy-java` and initialize the Git into it
+```bash
+cp -R library ../../ && cd ../../library && git init
+```
+
+2. Do the commit
+
+3. Create the Heroku app
+```bash
+heroku create library
+```
+
+4. push to the Heroku
+```bash
+git push heroku master
+```
